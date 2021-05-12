@@ -1,0 +1,41 @@
+@import url(../fonts/GothamBook.css);
+@import url(../fonts/GothamBold.css);
+
+
+.optionsBar span {
+    color: #fff;
+    font-size: 11pt;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+.photouser {
+    margin-left: 30px;
+    width: 25px;
+    height: 25px;
+}
+
+
+nav ul{
+	background: transparent;
+	/*background: #05817d;*/
+	list-style: none;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
+.span{
+	color: black;
+}
+.optionsBar span {
+    color: #FFF;
+    font-size: 11pt;
+    font-family: 'GothamBook';
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+
